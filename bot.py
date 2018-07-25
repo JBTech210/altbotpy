@@ -33,4 +33,4 @@ async def minecraft(ctx):
         print("{} Typed <minecraft".format(userName))
     else:
         await bot.send_message(ctx.message.author, "You need to be a VIP member to use this command, if you are a VIP member you must use this command in the server!")   
-bot.run("NDY1ODE2Mjk2NTIxNTk2OTM5.Di4Zeg.wiJG5eyKiF5GdCjAkfFb6a61B7I")
+bot.run("")
